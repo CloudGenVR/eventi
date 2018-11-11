@@ -36,6 +36,8 @@ Il meccanismo funziona in questo modo:
 
 1. Una volta inviata la proposta, noi del direttivo gli assoceremo eventualmente delle label per indicarne al meglio lo stato. Ad esempio, con delle label potremmo evidenziare il fatto che l'argomento è stato proposto, ma va cercato uno speaker.
 
+1. **Per inviare la proposta, seguire l'[esempio](https://github.com/CloudGenVR/eventi/issues/1)**
+
 #### Commenti alla proposta
 
 Una volta inviata una proposta, chiunque può commentarla, per chiedere eventuali chiarimenti o far evolvere la discussione e magari creare un evento ancora più bello :)

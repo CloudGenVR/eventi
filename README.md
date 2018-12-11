@@ -12,7 +12,7 @@ Una volta proposto un argomento, viene avviata una discussione con le persone in
 Niente panico! :) Non devi assolutamente conoscere *Git* o *GitHub* per partecipare.  
 Puoi usare il sito semplicemente come un forum, in cui aprire una nuova discussione o commentare quelle già esistenti.
 
-L'unica sezione del sito che ci interessa è quella delle [Issues](https://github.com/CloudGenVR/eventi/issues), attraverso cui gestire la discussione:
+L'unica sezione del sito che ci interessa è quella delle [Issues](https://github.com/cloudgenverona/eventi/issues), attraverso cui gestire la discussione:
 - quando vuoi inviare una proposta per un talk, basta che crei una nuova *Issue*.
 - quando vuoi partecipare ad una discussione, puoi commentare una *Issue*.
 
@@ -22,7 +22,7 @@ Il meccanismo funziona in questo modo:
 
 #### Invio della proposta
 
-1. Chiunque voglia proporre una o più sessioni per un evento, può creare un *Issue* (un "ticket") in [questa pagina](https://github.com/CloudGenVR/eventi/issues).  
+1. Chiunque voglia proporre una o più sessioni per un evento, può creare un *Issue* (un "ticket") in [questa pagina](https://github.com/cloudgenverona/eventi/issues).  
 
 1. L'argomento proposto può riguardare qualsiasi tema relativo alla realizzazione di software: sviluppo (backend principalmente), design, project management, imprenditoria, ...
 
@@ -36,7 +36,7 @@ Il meccanismo funziona in questo modo:
 
 1. Una volta inviata la proposta, noi del direttivo gli assoceremo eventualmente delle label per indicarne al meglio lo stato. Ad esempio, con delle label potremmo evidenziare il fatto che l'argomento è stato proposto, ma va cercato uno speaker.
 
-1. **Per inviare la proposta, seguire l'[esempio](https://github.com/CloudGenVR/eventi/issues/1)**
+1. **Per inviare la proposta, seguire l'[esempio](https://github.com/cloudgenverona/eventi/issues/1)**
 
 #### Commenti alla proposta
 
